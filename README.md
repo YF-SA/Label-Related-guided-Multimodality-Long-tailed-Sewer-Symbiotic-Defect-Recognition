@@ -1,1 +1,1 @@
-# Label-Related-guided-Multimodality-Long-tailed-Sewer-Symbiotic-Defect-Recognition
+# The manuscript has been submitted, and the accompanying source code will be made available to the public in the near future.
